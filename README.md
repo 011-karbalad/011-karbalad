@@ -1,53 +1,92 @@
-# Hi, I'm [Your Name] 👋  
-### Full Stack Developer | Passionate Coder | Lifelong Learner
 
-Welcome to my GitHub profile! 🚀 I'm a **developer** with a love for solving real-world problems using technology. My expertise spans across various technologies and frameworks, with a special focus on [mention your main stack: e.g., JavaScript, Python, etc.].
+# 👋 Hi, I'm Faraz  
+**Full Stack Developer | Blockchain Enthusiast | UI/UX Designer**
 
-I believe in writing clean, maintainable code, and am always excited to collaborate on meaningful projects. Let's build something amazing together! 💡
-
----
-
-## 🔧 Technologies & Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white" />
-</p>
+Welcome to my GitHub profile! 🚀 I'm a passionate developer with expertise in web technologies, blockchain, and creative design. Below you'll find some details about my skills, key projects, and interests. Let's collaborate and build something amazing! 💡
 
 ---
 
-## 🚀 Projects:
+## 🔧 Skills
 
-### **[Project Name](https://github.com/username/project)**  
-A brief description of what this project does and the technologies used.  
-🔧 **Tech**: [List the main tools/technologies used, e.g., React, Node.js, Express]
+### **Languages & Frameworks**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-FFAA00?style=flat-square&logo=javascript&logoColor=white)  
+- ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### **[Another Project](https://github.com/username/another-project)**  
-A brief description of this project, highlighting key features and contributions.  
-🔧 **Tech**: [List the tools, e.g., Python, Django]
+### **Blockchain/NFT**  
+- ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)  
+- Blockchain APIs, Cryptocurrency Escrow  
+
+### **Robots & Automation**  
+- Telegram Bots 🤖  
+- Discord Bots 🎮 (Steam API)
+
+### **UI/UX Design**  
+- Interactive Animations ✨  
+- 3D Design & AR 🖼️
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+## 🚀 Key Projects
+
+### **HSTL Marketplace (2025)**  
+![HSTL Marketplace](https://via.placeholder.com/800x400.png?text=HSTL+Marketplace+Image)  
+- Developed an e-commerce platform with interactive UI and digital marketing strategy.  
+- Used **Next.js** and **3D designs** with **WebGL/Three.js** for a rich user experience.  
+- Executed **social media campaigns** focusing on audience acquisition.
+
+### **Clothing Store & NFT App (2025)**  
+![Clothing Store & NFT App](https://via.placeholder.com/800x400.png?text=Clothing+Store+NFT+App)  
+- Designed a clothing app with the ability to create and trade **NFTs** on the **Polygon blockchain**.  
+- Implemented **AR** features to preview clothing and dynamic pricing based on NFT sales.  
+- Conducted **Jest testing** and security audits to ensure stability and safety.
+
+### **Telegram Crypto Escrow Bot (2025)**  
+- Built a **Telegram bot** using **Python** and **Blockchain APIs** for secure cryptocurrency transactions.  
+- Delivered project proposals with cost estimates ranging from **$700-$1000** and a delivery time of **2-3 weeks**.
+
+### **Discord Bot with Steam API (2025)**  
+- Developed a bot to display **Steam profiles**, manage item trades, and analyze market data.  
+- Utilized **steamcommunity** and **steam-tradeoffer-manager** with a **Next.js** infrastructure.
 
 ---
 
-## 📬 How to Reach Me:
+## 🎓 Education
+
+[Feel free to add your education here or remove this section if not applicable.]
+
+---
+
+## 🌍 Languages
+- **Persian** (Native)
+- **English** (Fluent, both written and spoken)
+
+---
+
+## 💡 Interests
+- **Web3 Technologies & Blockchain**
+- **Creative UI Design**
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)  
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out or connect with me on LinkedIn. I'm always open to new challenges and opportunities! 🤝
+
 - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - 🌐 **Portfolio**: [Your Portfolio](https://yourportfolio.com)
 
 ---
 
-## 💬 Let's Connect!
-Feel free to reach out if you want to collaborate on projects, share ideas, or just chat about tech! I’m always up for new challenges. 😄
+## 🧑‍💻 Top Languages in GitHub  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="Visitor Badge"/>
-</p>
