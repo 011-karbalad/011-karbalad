@@ -54,11 +54,6 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer with expertise in 
 
 ---
 
-## 🎓 Education
-
-[Feel free to add your education here or remove this section if not applicable.]
-
----
 
 ## 🌍 Languages
 - **Persian** (Native)
@@ -80,9 +75,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer with expertise in 
 
 Feel free to reach out or connect with me on LinkedIn. I'm always open to new challenges and opportunities! 🤝
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio**: [Your Portfolio](https://yourportfolio.com)
+- 📧 **Email**: [your.email@example.com](farazbadraghe@gmail.com)
+
 
 ---
 
