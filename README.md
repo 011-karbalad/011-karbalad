@@ -48,7 +48,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer with expertise in 
 - Built a **Telegram bot** using **Python** and **Blockchain APIs** for secure cryptocurrency transactions.  
 - Delivered project proposals with cost estimates ranging from **$700-$1000** and a delivery time of **2-3 weeks**.
 
-### **Discord Bot with Steam API (2025)**  
+### **Discord Bot with Steam API (2023)**  
 - Developed a bot to display **Steam profiles**, manage item trades, and analyze market data.  
 - Utilized **steamcommunity** and **steam-tradeoffer-manager** with a **Next.js** infrastructure.
 
