@@ -75,7 +75,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer with expertise in 
 
 Feel free to reach out or connect with me on LinkedIn. I'm always open to new challenges and opportunities! 🤝
 
-- 📧 **Email**: [your.email@example.com](farazbadraghe@gmail.com)
+- 📧 **Email**: [farazbadraghe@gmail.com](farazbadraghe@gmail.com)
 
 
 ---
