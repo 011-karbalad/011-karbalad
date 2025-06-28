@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Faraz  
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/22e599cc-45e2-40f5-ac37-5023b432321f/deploy-status)](https://app.netlify.com/projects/vboy/deploys)
 **Full Stack Developer | Web3 Builder | UI/UX Craftsman**
 
 Welcome to my GitHub! I'm a developer obsessed with clean code, solid architecture, and human-centered design.  
